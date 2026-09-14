@@ -1,0 +1,1 @@
+Single Page application with PWA structure to manage solo game created by Vae Victis

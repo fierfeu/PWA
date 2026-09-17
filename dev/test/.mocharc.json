@@ -1,0 +1,7 @@
+{
+  "spec": [
+    "./dev/test/canary_test.mjs"
+  ],
+  "bail": true,
+  "timeout": 2000
+}
